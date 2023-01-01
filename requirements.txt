@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+--extra-index-url https://test.pypi.org/simple tree-sitter-test
+rsm-markup>=0.2.4
